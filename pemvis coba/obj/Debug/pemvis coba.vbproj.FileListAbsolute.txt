@@ -1,0 +1,45 @@
+C:\Users\NITRO\source\repos\pemvis coba\pemvis coba\bin\Debug\pemvis coba.exe.config
+C:\Users\NITRO\source\repos\pemvis coba\pemvis coba\bin\Debug\pemvis coba.exe
+C:\Users\NITRO\source\repos\pemvis coba\pemvis coba\bin\Debug\pemvis coba.pdb
+C:\Users\NITRO\source\repos\pemvis coba\pemvis coba\bin\Debug\pemvis coba.xml
+C:\Users\NITRO\source\repos\pemvis coba\pemvis coba\obj\Debug\pemvis coba.vbprojAssemblyReference.cache
+C:\Users\NITRO\source\repos\pemvis coba\pemvis coba\obj\Debug\pemvis_coba.DataJenis.resources
+C:\Users\NITRO\source\repos\pemvis coba\pemvis coba\obj\Debug\pemvis_coba.Resources.resources
+C:\Users\NITRO\source\repos\pemvis coba\pemvis coba\obj\Debug\pemvis coba.vbproj.GenerateResource.cache
+C:\Users\NITRO\source\repos\pemvis coba\pemvis coba\obj\Debug\pemvis coba.vbproj.CoreCompileInputs.cache
+C:\Users\NITRO\source\repos\pemvis coba\pemvis coba\obj\Debug\pemvis coba.exe
+C:\Users\NITRO\source\repos\pemvis coba\pemvis coba\obj\Debug\pemvis coba.xml
+C:\Users\NITRO\source\repos\pemvis coba\pemvis coba\obj\Debug\pemvis coba.pdb
+C:\Users\NITRO\source\repos\pemvis coba\pemvis coba\obj\Debug\pemvis_coba.DataBuku.resources
+C:\Users\NITRO\source\repos\pemvis coba\pemvis coba\obj\Debug\pemvis_coba.Login.resources
+C:\Users\NITRO\source\repos\pemvis coba\pemvis coba\obj\Debug\pemvis_coba.Fmenu.resources
+C:\Users\NITRO\source\repos\pemvis coba\pemvis coba\obj\Debug\pemvis_coba.Pemakai.resources
+C:\Users\NITRO\source\repos\pemvis coba\pemvis coba\obj\Debug\pemvis_coba.TambahUser.resources
+C:\Users\NITRO\source\repos\pemvis coba\pemvis coba\bin\Debug\SqlServerTypes\x64\msvcr100.dll
+C:\Users\NITRO\source\repos\pemvis coba\pemvis coba\bin\Debug\SqlServerTypes\x64\SqlServerSpatial110.dll
+C:\Users\NITRO\source\repos\pemvis coba\pemvis coba\bin\Debug\SqlServerTypes\x86\msvcr100.dll
+C:\Users\NITRO\source\repos\pemvis coba\pemvis coba\bin\Debug\SqlServerTypes\x86\SqlServerSpatial110.dll
+C:\Users\NITRO\source\repos\pemvis coba\pemvis coba\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\NITRO\source\repos\pemvis coba\pemvis coba\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
+C:\Users\NITRO\source\repos\pemvis coba\pemvis coba\bin\Debug\Microsoft.ReportViewer.Design.DLL
+C:\Users\NITRO\source\repos\pemvis coba\pemvis coba\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\NITRO\source\repos\pemvis coba\pemvis coba\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+C:\Users\NITRO\source\repos\pemvis coba\pemvis coba\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\NITRO\source\repos\pemvis coba\pemvis coba\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\NITRO\source\repos\pemvis coba\pemvis coba\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\NITRO\source\repos\pemvis coba\pemvis coba\bin\Debug\EnvDTE.dll
+C:\Users\NITRO\source\repos\pemvis coba\pemvis coba\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\NITRO\source\repos\pemvis coba\pemvis coba\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\NITRO\source\repos\pemvis coba\pemvis coba\bin\Debug\EnvDTE80.dll
+C:\Users\NITRO\source\repos\pemvis coba\pemvis coba\bin\Debug\stdole.dll
+C:\Users\NITRO\source\repos\pemvis coba\pemvis coba\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\NITRO\source\repos\pemvis coba\pemvis coba\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\NITRO\source\repos\pemvis coba\pemvis coba\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\NITRO\source\repos\pemvis coba\pemvis coba\bin\Debug\Microsoft.MSXML.dll
+C:\Users\NITRO\source\repos\pemvis coba\pemvis coba\obj\Debug\pemvis coba.vbproj.CopyComplete
+C:\Users\NITRO\source\repos\pemvis coba\pemvis coba\bin\Debug\Jualbuku.accdb
+C:\Users\NITRO\source\repos\pemvis coba\pemvis coba\obj\Debug\pemvis_coba.Form8.resources
+C:\Users\NITRO\source\repos\pemvis coba\pemvis coba\obj\Debug\RdlCompile.cache
+C:\Users\NITRO\source\repos\pemvis coba\pemvis coba\obj\Debug\RdlCompile.compiled
+C:\Users\NITRO\source\repos\pemvis coba\pemvis coba\obj\Debug\pemvis_coba.Form9.resources
+C:\Users\NITRO\source\repos\pemvis coba\pemvis coba\obj\Debug\pemvis_coba.Form11.resources
